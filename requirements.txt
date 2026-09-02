@@ -1,0 +1,4 @@
+edge-tts>=6.1.9
+google-genai>=2.20.0
+moviepy>=2.2.1
+python-telegram-bot>=22.8
